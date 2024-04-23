@@ -1,0 +1,24 @@
+
+.box{
+    border: 10px solid rgb(114, 0, 129);
+    background: blue;
+    padding: 10px;
+    padding-top: 0px;
+    width: 500px;
+    
+}
+
+#yellow-text{
+    padding: 10px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    color: yellow;
+    margin: 0;
+}
+
+#white-text{
+    color: white;
+    padding: 10px;
+    background: red;
+    margin: 0;
+}

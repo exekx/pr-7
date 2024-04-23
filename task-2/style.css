@@ -1,0 +1,23 @@
+.cadetblue {
+    background-color: cadetblue;
+    border: 10px solid black;
+    padding: 20px; 
+}
+.gold {
+    background-color: gold;
+    padding-bottom: 10px;
+    border: 10px solid black;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    margin-left: 260px;
+}
+.indianred { 
+    background-color: indianred;
+    border: 10px solid black;
+    margin-left: 39px;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+}
